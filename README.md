@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Kwame Mensah</h1>
 <h3 align="center">A passionate frontend developer that turns beautiful designs and ideas into interactive websites</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamensgh" alt="kamensgh" /></a> </p>
 
-- 👨‍💻 Website [https://kamensgh.com/](https://kamensgh.com/)
+- 👨‍💻 Website: [https://kamensgh.com/](https://kamensgh.com/)
 
-- 📫 You can reach me at **kamensgh@gmail.com**
+- 📫 You can reach me at: **kamensgh@gmail.com**
 
-- 📄 Resume link [https://kamensgh.com/files/Kwame%20Ampoma-Mensah.pdf](https://kamensgh.com/files/Kwame%20Ampoma-Mensah.pdf)
+- 📄 Resume link: [https://kamensgh.com/files/Kwame%20Ampoma-Mensah.pdf](https://kamensgh.com/files/Kwame%20Ampoma-Mensah.pdf)
 
-- ⚡ Fun fact **I like watching movies and tv shows (Marvel) and playing pool table.**
+- ⚡ Fun fact: **I like watching movies and tv shows (Marvel) and playing pool table.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
