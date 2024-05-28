@@ -6,7 +6,7 @@
 
 - 📫 You can reach me at: **kamensgh@gmail.com**
 
-- 📄 Resume link: [https://kamensgh.com/files/Kwame%20Ampoma-Mensah.pdf](https://kamensgh.com/files/Kwame%20Ampoma-Mensah.pdf)
+- 📄 Resume link: [https://kamensgh.com/Kwame_Mensah.pdf](https://kamensgh.com/Kwame_Mensah.pdf)
 
 - ⚡ Fun fact: **I like watching movies and tv shows (Marvel) and playing pool table.**
 
